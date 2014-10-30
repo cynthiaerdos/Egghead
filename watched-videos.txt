@@ -1,0 +1,2 @@
+1. Binding - https://egghead.io/lessons/angularjs-binding - 2:53
+2. Controllers - https://egghead.io/lessons/angularjs-controllers 2:13
