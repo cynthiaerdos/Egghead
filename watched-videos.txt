@@ -2,3 +2,4 @@
 2. Controllers - https://egghead.io/lessons/angularjs-controllers 2:13
 3. The Dot - https://egghead.io/lessons/angularjs-the-dot 3:02
 4. Sharing Data Between Controllers - https://egghead.io/lessons/angularjs-sharing-data-between-controllers - 3:19
+5. Defining a Method on the Scope - https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope - 2:16
