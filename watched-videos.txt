@@ -4,3 +4,5 @@
 4. Sharing Data Between Controllers - https://egghead.io/lessons/angularjs-sharing-data-between-controllers - 3:19
 5. Defining a Method on the Scope - https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope - 2:16
 6. Filters - https://egghead.io/lessons/angularjs-filters - 2:19
+7. ngRepeat and Filtering Data - https://egghead.io/lessons/angularjs-ngrepeat-and-filtering-data - 5:13
+8. Built-in Filters - https://egghead.io/lessons/angularjs-built-in-filters - 2:13
