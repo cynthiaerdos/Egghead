@@ -1,8 +1,14 @@
-1. Binding - https://egghead.io/lessons/angularjs-binding - 2:53
-2. Controllers - https://egghead.io/lessons/angularjs-controllers 2:13
-3. The Dot - https://egghead.io/lessons/angularjs-the-dot 3:02
-4. Sharing Data Between Controllers - https://egghead.io/lessons/angularjs-sharing-data-between-controllers - 3:19
-5. Defining a Method on the Scope - https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope - 2:16
-6. Filters - https://egghead.io/lessons/angularjs-filters - 2:19
-7. ngRepeat and Filtering Data - https://egghead.io/lessons/angularjs-ngrepeat-and-filtering-data - 5:13
-8. Built-in Filters - https://egghead.io/lessons/angularjs-built-in-filters - 2:13
+1. Binding - https://egghead.io/lessons/angularjs-binding - 2:53 - DONE
+2. Controllers - https://egghead.io/lessons/angularjs-controllers 2:13 - DONE
+3. The Dot - https://egghead.io/lessons/angularjs-the-dot 3:02 - DONE
+4. Sharing Data Between Controllers - https://egghead.io/lessons/angularjs-sharing-data-between-controllers - 3:19 - DONE
+5. Defining a Method on the Scope - https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope - 2:16 - DONE
+6. Filters - https://egghead.io/lessons/angularjs-filters - 2:19 - DONE
+7. ngRepeat and Filtering Data - https://egghead.io/lessons/angularjs-ngrepeat-and-filtering-data - 5:13 - DONE
+8. Built-in Filters - https://egghead.io/lessons/angularjs-built-in-filters - 2:13 - DONE
+9. First Directive - https://egghead.io/lessons/angularjs-first-directive - 2:08 - DONE
+10. Directive Restrictions - https://egghead.io/lessons/angularjs-directive-restrictions - 3:01 - DONE
+11. Basic Behaviors - https://egghead.io/technologies/angularjs?order=ASC - 3:29 - DONE
+12. Useful Behaviors - https://egghead.io/lessons/angularjs-useful-behaviors - 2:55 - DONE
+13. Directives Talking to Controllers - https://egghead.io/lessons/angularjs-directives-talking-to-controllers - 4:43
+14. Directive to Directive Communication - https://egghead.io/lessons/angularjs-directive-to-directive-communication - 8:01
