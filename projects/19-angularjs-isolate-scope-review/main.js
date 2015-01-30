@@ -4,6 +4,7 @@ app.controller("AppCtrl", function($scope) {
     $scope.callHome = function(number, network, message) {
         alert("Number: " + number + " network: " + network + " message: " + message + ".")
     }
+
 })
 
 app.directive("phone", function() {
@@ -11,7 +12,7 @@ app.directive("phone", function() {
         restrict: "E",
         scope: {
             number: "@",
-            network: "=", // It won't work if you change the 'network' to anything else and use that below in the template.
+            network: "=",
             makeCall: "&"
         },
         template: '<div class="panel">Number: {{number}} | Network: {{network}} <select ng-model="network" ng-options="net for net in networks"></select>' +
