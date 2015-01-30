@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <title>Egghead Videos</title>
+    <link rel="stylesheet" href="css/foundation.min.css">
+</head>
+<body>
+
+<div ng-app="phoneApp">
+    <div ng-controller="AppCtrl">
+        <phone number="555-555" network="network" make-call="callHome(number, network, message)"></phone>
+        <phone number="123-456" network="network" make-call="callHome(number, network, message)"></phone>
+        <phone number="911" network="network" make-call="callHome(number, network, message)"></phone>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.3/angular.min.js"></script>
+<script type="text/javascript" src="main.js"></script>
+</body>
+</html>
