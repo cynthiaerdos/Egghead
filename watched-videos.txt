@@ -5,3 +5,4 @@
 17. Isolate Scope "=" - https://egghead.io/lessons/angularjs-isolate-scope-two-way-binding - 2:51
 18. Isolate Scope "&" - https://egghead.io/lessons/angularjs-isolate-scope-expression-binding - 6:03
 19. Isolate Scope Review - https://egghead.io/lessons/angularjs-isolate-scope-review - 3:30
+20. Transclusion Basics - https://egghead.io/lessons/angularjs-transclusion-basics - 2:48
