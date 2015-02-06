@@ -6,3 +6,6 @@
 18. Isolate Scope "&" - https://egghead.io/lessons/angularjs-isolate-scope-expression-binding - 6:03
 19. Isolate Scope Review - https://egghead.io/lessons/angularjs-isolate-scope-review - 3:30
 20. Transclusion Basics - https://egghead.io/lessons/angularjs-transclusion-basics - 2:48
+21. An Alternative Approach to Controllers - https://egghead.io/lessons/angularjs-an-alternative-approach-to-controllers - 2:49
+22. Thinking Differently About Organization - https://egghead.io/lessons/angularjs-thinking-differently-about-organization - 4:22
+23. Building Zippy - https://egghead.io/lessons/angularjs-building-zippy - 7:55
