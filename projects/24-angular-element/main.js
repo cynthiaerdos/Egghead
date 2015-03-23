@@ -14,7 +14,7 @@ app.directive("dumbPassword", function() {
     return {
         restrict: "E",
         replace: true,
-        template: "<div>\n  <input type=\"text\" ng-model=\"model.input\">\n  \n  \n<div>",
+        template: "<div><input type=\"text\" ng-model=\"model.input\"><div>",
         compile: function(tElem) {
             tElem.append(validElement);
 
