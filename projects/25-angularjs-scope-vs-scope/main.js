@@ -6,8 +6,8 @@ app.controller("MyCtrl", ['$scope', '$http', function(b, a) {
 
 app.directive("myDirective", function($http, $parse) {
     return {
-        link: function($scope, scope, attrs) {
-            console.log($scope);
+        link: function(scope, sscope, attrs) {
+            console.log(scope);
         }
     }
 });

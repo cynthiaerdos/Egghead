@@ -11,7 +11,6 @@ app.config(function($routeProvider) {
 
 
 app.controller("AppCtrl", function($scope, $routeParams) {
-    console.log($routeParams);
     $scope.model = {
         message: "Address: " +
           $routeParams.country + ", " +

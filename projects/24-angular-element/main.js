@@ -9,7 +9,7 @@ app.directive("dumbPassword", function() {
                 validElement.toggleClass("alert-box alert")
             }
         })
-    }
+    };
 
     return {
         restrict: "E",
